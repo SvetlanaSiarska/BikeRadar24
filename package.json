@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "esri-leaflet-geocoder": "^2.2.13",
+    "firebase": "^6.5.0",
+    "jquery": "^3.4.1",
+    "leaflet": "1.4.0",
+    "lodash": "^4.17.15",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-leaflet": "2.2.1",
+    "react-scripts": "3.2.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.88.0"
   },
   "scripts": {
     "start": "react-scripts start",
