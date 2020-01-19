@@ -5,9 +5,9 @@ import {
         AUTH_LOG_IN,
         AUTH_LOG_OUT
      } from '../actions/types'
-import ProductsReducer from './ProductsReducer.js';
-import UserReducer from './UserReducer.js';
-import PointsReducer from './PointsReducer.js';
+import ProductsReducer from './ProductsReducer.js.js';
+import UserReducer from './UserReducer.js.js';
+import PointsReducer from './PointsReducer.js.js';
 import EditedProductReducer from './EditedProductReducer';
 import TagsReducer from './TagsReducer';
 import PendingUsersReducer from './PendingUsersReducer';
